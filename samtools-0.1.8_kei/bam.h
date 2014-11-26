@@ -87,7 +87,11 @@ typedef struct {
 	char **target_name;
 	uint32_t *target_len;
 	void *dict, *hash, *rg2lib;
+#ifdef _TARGET_KEI
+	uint32_t l_text, n_text;
+#else
 	size_t l_text, n_text;
+#endif
 	char *text;
 } bam_header_t;
 
