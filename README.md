@@ -1,8 +1,8 @@
 NGS Analyzer-MINI
 =================
 
-* version: 1.0.0 (based on NGS Analyzer 1.0)
-* data: 2014/07/25
+* version: 1.1 (based on NGS Analyzer 1.0)
+* update: 2019/03/20
 * contact: miniapp@riken.jp
 
 

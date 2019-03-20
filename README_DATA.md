@@ -1,8 +1,8 @@
 NGS Analyzer-MINI Input Data
 ============================
 
-* version: 1.0.0
-* data: 2014/07/25
+* version: 1.1
+* update: 2019/03/20 (Update the data download Web address)
 * contact: miniapp@riken.jp
 
 
@@ -163,7 +163,7 @@ Analysis target genome
 Download the pseudo-genome data.
 
     $ cd ~/ngsa_mini_input
-    $ wget http://mt.aics.riken.jp/hpci-miniapp/ngsa-data/ngsa-dummy.tar.gz
+    $ wget http://mt.r-ccs.riken.jp/hpci-miniapp/ngsa-data/ngsa-dummy.tar.gz
     $ tar zxf ngsa-dummy.tar.gz
     $ rm ngsa-dummy.tar.gz
 
