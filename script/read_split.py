@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# Copyright (C) 2012-2013 AICS, Riken.
+# Copyright (C) 2012-2019 Riken Center for Computational Science (R-CCS).
 
 ## \file read-split.py KMR-NGSA Read File Splitter.
 
@@ -122,6 +122,6 @@ if __name__ == "__main__":
 
     splitfile(options.nums, options.odir, options.opref, inputfile)
 
-# Copyright (C) 2012-2013 AICS, Riken
+# Copyright (C) 2012-2019 Riken Center for Computational Science (R-CCS).
 # This library is distributed WITHOUT ANY WARRANTY.  This library can be
 # redistributed and/or modified under the terms of the GNU LGPL-2.1.
